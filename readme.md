@@ -54,6 +54,7 @@ I intend to use this space to document my promise modules, useful promise patter
 - **[p-is-promise](https://github.com/sindresorhus/p-is-promise)**: Check if something is a promise
 - **[p-state](https://github.com/sindresorhus/p-state)**: Inspect the state of a promise
 - **[p-queue](https://github.com/sindresorhus/p-queue)**: Promise queue with concurrency control
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 - **[make-synchronous](https://github.com/sindresorhus/make-synchronous)**: Make an asynchronous function synchronous
 
 ### `.then`/`.catch`-based packages
